@@ -1,0 +1,11 @@
+coppeliasim-zmqremoteapi-client==2.0.4
+numba==0.60.0
+numpy==1.26.4
+pytz==2024.2
+scikit-learn==1.6.0
+scipy==1.14.1
+setuptools==58.2.0  # To remove ROS 2 build system deprecation warning
+shapely==2.0.6
+simple-pid==2.0.1
+transforms3d==0.4.2
+types-pytz==2024.2.0.20241221
